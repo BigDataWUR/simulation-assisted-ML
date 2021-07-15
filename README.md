@@ -1,6 +1,6 @@
 # NZ
 
-The code used to produce the results of the paper. To run it, edit the paths defined in the ```main``` function inside **run.py** and change  them to point to the simulated/weather/nitrogen response rate data, and where to save the results.
+The code used to produce the results of the paper. Before running it, change the paths defined in the ```main``` function inside **run.py** to point to the simulated/weather/nitrogen response rate data, and also where to save the results.
 
 Given the following example paths:
 - ```scenario_name```: NZ_Clover
