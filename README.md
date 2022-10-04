@@ -1,6 +1,6 @@
-# NZ
+# Simulation-assisted machine learning for operational digital twins
 
-The code used to produce the results of the paper [Simulation-assisted machine learning for operational digital twins](https://www.sciencedirect.com/science/article/pii/S1364815221003169). Before running it, change the paths defined in the ```main``` function inside **run.py** to point to the simulated/weather/nitrogen response rate data, and also where to save the results.
+Implementation of the paper [Simulation-assisted machine learning for operational digital twins](https://www.sciencedirect.com/science/article/pii/S1364815221003169). Before running it, change the paths defined in the ```main``` function inside **run.py** to point to the simulated/weather/nitrogen response rate data, and also where to save the results.
 
 Given the following example paths:
 - ```scenario_name```: NZ_Clover
