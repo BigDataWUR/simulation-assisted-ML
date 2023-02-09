@@ -70,7 +70,7 @@ def extract_columns_from_filename(dataDF):
 
 
 def calculate_baseline_herbage_cuts(dataDF):
-    """Calculates the herbage buts for the baseline case and adds them to the supplied dataframe.
+    """Calculates the herbage cuts for the baseline case and adds them to the supplied dataframe.
 
     Parameters
     ----------
